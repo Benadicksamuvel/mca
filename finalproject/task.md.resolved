@@ -1,0 +1,10 @@
+# Book Inventory Login and Registration System
+
+- [ ] Check workspace contents
+- [ ] Create database connection file (`db.php`)
+- [ ] Create styles (`style.css`)
+- [ ] Create client-side validation (`validation.js`)
+- [ ] Create registration page (`register.php`)
+- [ ] Create login page (`index.php`)
+- [ ] Create dashboard page (`dashboard.php`)
+- [ ] Create logout file (`logout.php`)
