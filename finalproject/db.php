@@ -2,7 +2,7 @@
 $host = "localhost";
 $dbname = "bookinv";
 $username = "root";
-$password = "sham"; // ← Replace with your actual MySQL root password
+$password = ""; // ← Replace with your actual MySQL root password
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
